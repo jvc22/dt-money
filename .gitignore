@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-
+.env
 .env.local
 json-server.json
 server.json
